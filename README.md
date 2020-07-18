@@ -1,4 +1,4 @@
-![alt README header](./assets/header.png)
+![alt README header](https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png)
 
 ## Web Developer (JS, NodeJS & Python)
 
@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 <div align="center" style="background:#414a50; padding: 25px 0;">
     <a href="https://twitter.com/ThisIsIvoLondon">
-        <img src="./assets/twitter.svg" alt="Follow me on twitter">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
     </a>
      <a href="https://www.linkedin.com/in/ivelin-iliev-16272baa/">
-        <img src="./assets/linkedin.svg" alt="Connect on Linkedin">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
 </div>
