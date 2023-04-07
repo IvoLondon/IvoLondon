@@ -1,8 +1,8 @@
 ![alt README header](https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png)
 
-## Web Developer (JS, NodeJS & Python)
+## Software Engineer (JS, NodeJS)
 
-🔭 Currently working at Global, a British media company. I work with great people and we are using great technologies! 
+🔭 Currently working at Vodafone, a British telecommunications company. I work with great people and we are using great technologies! 
 
 Long story short:
 
