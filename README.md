@@ -1,6 +1,6 @@
 ![alt README header](https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png)
 
-## Software Engineer (JS, NodeJS)
+## Senior Software Engineer (TS, NodeJS, AWS)
 
 🔭 Currently working at Vodafone, a British telecommunications company. I work with great people and we are using great technologies! 
 
