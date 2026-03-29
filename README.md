@@ -9,9 +9,9 @@ Long story short:
 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
 
-🌎 Check my [portfolio](https://www.ivelin.me/)
+<!-- 🌎 Check my [portfolio](https://www.ivelin.me/) -->
 
-I'm always doing some side projects, but I can't be bothered to keep my portfolio up to date. 
+I'm always working on side projects, but I can never seem to find the time to keep my portfolio up to date.
 
 Feel free to reach out 💬
 <!--
